@@ -24,4 +24,5 @@ CREATE TABLE users (
     username VARCHAR(50) UNIQUE,
     password VARCHAR(100)
 );
+```
 Also Replace with your MySQL password when running locally
